@@ -12,7 +12,6 @@ This repository contains the latest version of my Data Analyst CV along with my 
 
 * **LinkedIn:** https://www.linkedin.com/in/leoloujeffrey/
 * **GitHub:** https://github.com/leoloujeffreydev
-* **Portfolio:** http://leoloujeffreydev.somee.com
 
 ## 👋 About Me
 
