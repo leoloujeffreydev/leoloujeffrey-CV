@@ -2,7 +2,7 @@
 
 Welcome to my professional profile repository.
 
-This repository contains the latest version of my Data Analyst CV along with my supporting certification for recruiters and hiring managers.
+This repository contains the latest version of my professional resume and serves as a central location for recruiters and hiring managers to access my updated CV.
 
 ## 📄 Download
 
