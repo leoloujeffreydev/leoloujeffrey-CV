@@ -1,4 +1,4 @@
-# Leolou Jeffrey C. Sanchez – Data Analyst CV
+# Leolou Jeffrey C. Sanchez - CV
 
 Welcome to my professional profile repository.
 
