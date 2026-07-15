@@ -6,7 +6,7 @@ This repository contains the latest version of my professional resume and serves
 
 ## 📄 Download
 
-* **CV:** `Leolou_Jeffrey_Sanchez_Data_Analyst_CV_WITH_CERTIFICATE.pdf`
+* **CV:** `Leolou_Jeffrey_Sanchez_CV.pdf`
 
 ## 👨‍💻 Professional Profiles
 
@@ -15,18 +15,27 @@ This repository contains the latest version of my professional resume and serves
 
 ## 👋 About Me
 
-I am a Data Analyst based in Dubai with a background in banking system support and business applications. My experience includes SQL-based data analysis, production issue investigation, process automation, and dashboard development.
+Business Analyst and Data Analytics professional with over 7 years of IT experience supporting enterprise banking systems, business operations, and data-driven decision-making. Experienced in Finacle Core Banking, Oracle SQL, business analysis, production support, root cause analysis, stakeholder collaboration, and process improvement. Recently completed a KHDA-approved Data Analytics Certification, with hands-on experience in SQL, Python, Power BI, Tableau, and Advanced Excel. Passionate about using data and technology to solve business problems, improve operational efficiency, and support strategic decision-making.
 
-### Technical Skills
+### CORE COMPETENCIES
 
-* SQL (PostgreSQL)
-* Python (Pandas, NumPy)
-* Power BI
-* Tableau
-* Advanced Excel
-* Data Cleaning & Transformation
-* Data Visualization
-* Business Intelligence
+Data Analytics & Business Intelligence:
+SQL (Oracle & PostgreSQL) |Power BI |Python (Pandas, NumPy) |Tableau | Advanced Microsoft Excel | Data Cleaning & Transformation | Data Visualization | Dashboard Development | KPI & Operational Reporting
+
+Enterprise Systems:
+Finacle Core Banking | Finacle Scripting | Banking Systems Support | Oracle SQL | Production Support | Incident Analysis & Resolution | User Acceptance Testing (UAT) | Production Deployment Support | CRM Support
+
+Business Analysis:
+Requirement Gathering | Business Process Analysis | Functional Documentation | Stakeholder Management |Root Cause Analysis | Problem Solving
+
+Operations & Administration:
+Process Improvement | Documentation Management |Inventory & Operational Reporting | Supplier Coordination | Data Validation | Cross-functional Collaboration
+
+Key Professional Experience:
+3+ years – Finacle Core Banking, Oracle SQL & Production Support 
+1+ year – Administrative Operations & Reporting (UAE) 
+4+ years – Enterprise Systems Development, Customization & Support
+
 
 ## 📂 Featured Projects
 
